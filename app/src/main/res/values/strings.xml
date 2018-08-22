@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exe_1</string>
+    <string name="label_name">Họ và tên :</string>
+    <string name="label_GT">Giới tính :</string>
+    <string name="label_NS">Ngày sinh :</string>
+    <string name="label_Email">Email :</string>
+    <string name="label_Ava">Avatar :</string>
+    <string-array name="Nam">
+        <item>Nam</item>
+        <item>Nữ</item>
+    </string-array>
+    <string name="button_submit">Submit</string>
+</resources>
